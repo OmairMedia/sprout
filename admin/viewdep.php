@@ -1,0 +1,182 @@
+<?php
+//If the HTTPS is not found to be "on"
+if(!isset($_SERVER["HTTPS"]) || $_SERVER["HTTPS"] != "on")
+{
+    //Tell the browser to redirect to the HTTPS URL.
+    header("Location: https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"], true, 301);
+    //Prevent the rest of the script from executing.
+    exit;
+}
+
+
+
+
+include('db_func.php');
+global $con;
+
+
+if (!chk_adm_login()) {
+    header('location: login.php');
+    exit;
+}
+
+$log_email = $_SESSION['log_adm_email'];
+// grab login user data;
+
+global $grab_user_data_fet;
+
+$grab_user_data_qur = "SELECT `Account_type`, `U_id`, `D_id`, `r_id`, `U_name`, `u_email`, `profile_img` FROM `user` WHERE `u_email`='" . $log_email . "'";
+$grab_user_data_exc = mysqli_query($con, $grab_user_data_qur) or die (mysqli_error($con));
+$grab_user_data_fet = mysqli_fetch_assoc($grab_user_data_exc);
+
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Sprout | build your momentum</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <link rel="shortcut icon" href="../img/Icon.ico" type="image/x-icon"/>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="dist/css/new_style.css">
+    <!-- Bootstrap 3.3.5 -->
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="plugins/datatables/dataTables.bootstrap.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="dist/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. Choose a skin from the css/skins
+         folder instead of downloading all of them to reduce the load. -->
+    <link rel="stylesheet" href="dist/css/skins/_all-skins.min.css">
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+<div class="wrapper">
+    <?php include 'header.php'; ?>
+    <?php include 'sidebar.php'; ?>
+    <!-- Left side column. contains the logo and sidebar -->
+
+    <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <section class="content-header">
+            <h1>
+                Department
+            </h1>
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+            <div class="box">
+                <div class="box box-info">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Insert Departments</h3>
+                    </div><!-- /.box-header -->
+                    <!-- form start -->
+                    <form class="form-horizontal" action="insertdep.php" method="post">
+                        <div class="box-body">
+                            <div>
+                                <?php
+                                /*Enter Values Get*/
+                                $dep_val = call_sess('depart_val');
+
+                                $all_in_errs = call_sess('all_in_errs');
+                                if(!empty($all_in_errs)) {
+                                    foreach($all_in_errs as $sing_err){
+                                        echo "<p class='alert alert-danger'>".$sing_err."</p>";
+                                    }
+                                }
+                                ?>
+                            </div>
+                            <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-2 control-label">Insert</label>
+
+                                <div class="col-sm-10">
+                                    <input name="depart" class="form-control" value="<?php echo $dep_val; ?>" id="inputEmail3" placeholder="Department"
+                                           type="text">
+                                </div>
+                            </div>
+                        </div><!-- /.box-body -->
+                        <div class="box-footer">
+                            <input type="submit" class="btn btn-default green-btn pull-right" name="submit" value="Insert"/>
+                        </div><!-- /.box-footer -->
+                    </form>
+                </div>
+                <div class="box-header">
+                    <h3 class="box-title">Department Detail</h3>
+                </div><!-- /.box-header -->
+
+                <div class="box-body">
+                    <table id="example1" class="table table-bordered table-hover">
+                        <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Department</th>
+                            <th>Action</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <?php
+                        $query = "SELECT * From `department`";
+                        $query_run = mysqli_query($con, $query) or die (mysqli_error($con));
+                        while ($row = mysqli_fetch_assoc($query_run)){
+                        ?>
+
+
+                        <tr class="even" role="row">
+                            <td class="sorting_1"><?php echo $row['id']; ?></td>
+                            <td class="sorting_1"><?php echo $row['department']; ?></td>
+
+                            <td>
+                                <a href="editdep.php?id=<?php echo $row['id']; ?>" class="btn btn-default green-btn"><i
+                                        class="fa fa-edit" title="Edit"></i> </a>
+                                <a href="deldep.php?id=<?php echo $row['id']; ?>" class="btn btn-default red-btn" title="Delete"><i
+                                        class="fa fa-trash"</a>
+                            </td>
+                            <?php } ?>
+                        </tr>
+                        </tbody>
+
+                    </table>
+                </div><!-- /.box-body -->
+            </div>
+        </section>
+    </div>
+    <!-- Content Wrapper. Contains page content -->
+    <!-- /.content-wrapper -->
+    <?php include 'footer.php'; ?>
+    <!-- jQuery 2.1.4 -->
+    <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <!-- Bootstrap 3.3.5 -->
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <!-- DataTables -->
+    <script src="plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="plugins/datatables/dataTables.bootstrap.min.js"></script>
+    <!-- SlimScroll -->
+    <script src="plugins/slimScroll/jquery.slimscroll.min.js"></script>
+    <!-- FastClick -->
+    <script src="plugins/fastclick/fastclick.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="dist/js/app.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="dist/js/demo.js"></script>
+    <!-- page script -->
+    <script>
+        $(function () {
+            $("#example1").DataTable();
+            $('#example2').DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": false,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false
+            });
+        });
+    </script>
+</body>
+</html>
+

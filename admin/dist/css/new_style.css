@@ -1,0 +1,183 @@
+body{
+    font-family: Lato, sans-serif !important;
+}
+.skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a{
+    background-color: #f8f8f8 !important;
+}
+.login-box{
+    margin: 4% auto !important;
+}
+.alert-danger {
+    background-color: #fad5d5 !important;
+}
+#employee-btn{
+    background-color: #90b833;
+    color: white;
+    border-color: #90b833;
+}
+#employee-btn:hover{
+    transition: 0.4s ease;
+    border-color: #81a632;
+    background-color: #81a632;
+    color: white;
+}
+.panel-heading p{
+    border-bottom: 1px solid #eee;
+    /* background-color: #FAFAFA; */
+    color: #90b833;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+.login-logo{
+    margin-bottom: 0px !important;
+}
+#submit-button{
+    position: absolute;
+    top: 4px;
+    right: 5px;
+    background: transparent;
+    border: 0px;
+    box-shadow: none;
+    padding: 0px;
+    width: initial;
+}
+#submit-button i{
+    font-size: 15px;
+    border: 1px solid;
+    padding: 5px 6PX;
+    border-radius: 20PX;
+    color: #b29999;
+}
+#submit-button i:hover{
+    color: #90b833;
+    transition: 0.6s ease;
+}
+.emp-pannel{
+    color: #90b833;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+.emp-pannel:hover{
+    color: #90b833;
+}
+#email-admin:focus, #inputPassword1:focus{
+    border: 1px solid #90b833;
+}
+.has-feedback:first-child{
+    margin-bottom: 0px !important;
+}
+.login-box-body{
+    margin-top: 65px !important;
+}
+.content-wrapper{
+    background: url("../../../img/Background _1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.login-page, .wrapper{
+    background: url("../../../img/Background _1.jpg") !important;
+    background-size: cover !important;;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+}
+.pagination>.active>a{
+    background-color: #90b833 !important;
+    border-color: #90b833 !important;
+}
+.pagination>li:first-child>a, .pagination>li:last-child>a{
+    background-color: #4f6b2f !important;
+    border-color: #4f6b2f !important;
+    color: white !important;
+}
+.skin-blue .main-header .logo, .skin-blue .main-header .navbar,
+.skin-blue .main-header li.user-header,
+.skin-blue .main-sidebar,
+.skin-blue .sidebar-menu>li.header{
+    background-color: #f8f8f8 !important;
+    color: #777 !important;
+}
+.skin-blue .main-header .navbar{
+    border-bottom: 1px solid #adadad;
+}
+.main-sidebar{
+    border-right: 1px solid #adadad;
+}
+.skin-blue .main-header .navbar .sidebar-toggle,
+.skin-blue .main-header .navbar .nav>li>a,
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>p,
+.skin-blue .user-panel>.info,
+.skin-blue .user-panel>.info>a{
+    color: #777 !important;
+}
+.skin-blue .main-header .navbar .sidebar-toggle:hover{
+    background-color: #f8f8f8 !important;
+}
+.user-image, .navbar-nav>.user-menu>.dropdown-menu>li.user-header>img,
+.user-panel>.image>img{
+    border: 2px solid #777 !important;
+}
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default:hover{
+    background: #90b833 !important;
+    color: white !important;
+    transition: 0.5s ease;
+    border-color:#90b833;
+}
+.sidebar-mini.sidebar-collapse .main-header .logo>.logo-mini{
+    font-size: 12px !important;
+}
+.skin-blue .sidebar-menu>li>a{
+    color: #777 !important;
+}
+.skin-blue .sidebar-menu>li.active>a{
+    background-color: #f8f8f8 !important;
+}
+.skin-blue .sidebar-menu>li>a:hover,
+.skin-blue .sidebar-menu>li.active>a:hover,
+.sidebar-menu .treeview-menu>li:hover{
+    background-color: #90b833 !important;
+    transition: 0.5s ease;
+    color: white !important;
+}
+.green-btn, .add-details{
+    background: #90b833 !important;
+    color: white !important;
+    border-color: #90b833 !important;
+}
+.red-btn{
+    background: #4f6b2f !important;
+    color: white !important;
+}
+.box.box-info{
+    border-top-color: #90b833 !important;
+}
+.ann-box{
+    background-color: white !important;
+}
+/**FOOTER*/
+#footer{
+    width: 100%;
+    background-color: #f8f8f8;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding: 20px 0px;
+}
+#footer p{
+    text-align: center;
+}
+
+#footer-copright{
+    margin-top: 20px;
+}
+.ann-box{
+    height: 385px;
+    word-break: break-all;
+    overflow: scroll;
+}
+.skin-blue .sidebar-menu>li.active>a,
+.skin-blue .sidebar-menu>li>.treeview-menu{
+    background-color: #f8f8f8 !important;
+}

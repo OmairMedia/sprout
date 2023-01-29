@@ -1,0 +1,6 @@
+//Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^https://4slash.com/sprout[nc]
+RewriteRule ^(.*)$ http://www.https://4slash.com/sprout/$1 [r=301,nc]
+ 

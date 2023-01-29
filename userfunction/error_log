@@ -1,0 +1,228 @@
+[22-Nov-2019 09:54:13 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:54:13 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:54:22 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:54:22 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:54:25 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:54:25 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:57:43 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:57:43 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:57:47 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 09:57:47 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:19:26 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:19:26 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:19:32 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:19:32 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:21:49 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:21:49 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:21:52 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:21:52 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:21:52 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 78
+[22-Nov-2019 15:21:52 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 78
+[22-Nov-2019 15:21:52 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 79
+[22-Nov-2019 15:21:52 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 80
+[22-Nov-2019 15:21:52 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 83
+[22-Nov-2019 15:21:52 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 83
+[22-Nov-2019 15:21:52 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 84
+[22-Nov-2019 10:22:06 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:22:06 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:22:06 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 78
+[22-Nov-2019 15:22:06 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 78
+[22-Nov-2019 15:22:06 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 79
+[22-Nov-2019 15:22:06 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 80
+[22-Nov-2019 15:22:06 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 83
+[22-Nov-2019 15:22:06 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 83
+[22-Nov-2019 15:22:06 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 84
+[22-Nov-2019 10:25:19 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:25:19 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:25:19 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 27
+[22-Nov-2019 15:25:19 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 27
+[22-Nov-2019 15:25:19 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 27
+[22-Nov-2019 15:25:19 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 27
+[22-Nov-2019 10:25:24 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:25:24 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:25:24 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:25:24 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:25:24 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 71
+[22-Nov-2019 15:25:24 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 72
+[22-Nov-2019 15:25:24 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:25:24 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:25:24 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 76
+[22-Nov-2019 10:25:32 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:25:32 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:25:32 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:25:32 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:25:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 71
+[22-Nov-2019 15:25:32 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 72
+[22-Nov-2019 15:25:32 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:25:32 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:25:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 76
+[22-Nov-2019 10:25:33 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:25:33 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:25:33 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:25:33 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:25:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 71
+[22-Nov-2019 15:25:33 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 72
+[22-Nov-2019 15:25:33 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:25:33 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:25:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 76
+[22-Nov-2019 10:26:11 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:26:11 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:26:11 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:26:11 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 70
+[22-Nov-2019 15:26:11 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 71
+[22-Nov-2019 15:26:11 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 72
+[22-Nov-2019 15:26:11 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:26:11 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 75
+[22-Nov-2019 15:26:11 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 76
+[22-Nov-2019 10:36:02 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:36:02 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:36:02 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:02 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:02 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:02 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 10:36:29 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:36:29 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:36:29 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:29 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:29 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:29 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 10:36:53 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:36:53 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:36:53 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:53 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:54 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 15:36:54 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[22-Nov-2019 10:37:01 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:37:01 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:37:01 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 71
+[22-Nov-2019 15:37:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 71
+[22-Nov-2019 15:37:01 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 72
+[22-Nov-2019 15:37:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 73
+[22-Nov-2019 15:37:01 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 76
+[22-Nov-2019 15:37:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 76
+[22-Nov-2019 15:37:01 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 77
+[22-Nov-2019 10:37:04 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:37:04 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:37:04 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 110
+[22-Nov-2019 15:37:04 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 110
+[22-Nov-2019 15:37:04 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 111
+[22-Nov-2019 10:37:07 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 10:37:07 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[22-Nov-2019 15:37:07 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 161
+[22-Nov-2019 15:37:07 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 161
+[22-Nov-2019 15:37:07 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 162
+[25-Nov-2019 11:10:09 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 11:10:09 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 16:10:09 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:09 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:09 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:09 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 11:10:12 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 11:10:12 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 16:10:12 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:12 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:12 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:12 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 11:10:17 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 11:10:17 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 16:10:17 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:17 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:10:17 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 11:12:51 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 11:12:51 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 16:12:51 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:12:51 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:12:51 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:12:51 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 11:12:57 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 11:12:57 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 2
+[25-Nov-2019 16:12:57 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:12:57 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:12:57 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 16:12:57 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/functions.php on line 28
+[25-Nov-2019 11:15:23 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 11:15:23 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 16:15:23 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:15:23 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:15:23 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:15:23 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 11:17:13 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 11:17:13 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 16:17:13 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:17:13 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:17:13 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:17:13 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 11:18:17 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 11:18:17 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 16:18:17 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:17 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:17 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 11:18:21 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 11:18:21 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 16:18:21 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:21 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:21 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:21 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 11:18:49 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 11:18:49 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 16:18:49 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:49 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:49 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 16:18:49 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 15
+[25-Nov-2019 11:19:34 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 11:19:34 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 16:19:34 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 16:19:34 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 16:19:34 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 16:19:34 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 11:19:37 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 11:19:37 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 2
+[25-Nov-2019 16:19:37 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 16:19:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 16:19:37 Asia/Karachi] PHP Notice:  Undefined variable: con in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 16:19:37 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 13
+[25-Nov-2019 16:21:10 Asia/Karachi] PHP Notice:  Undefined variable: check_in in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 37
+[25-Nov-2019 16:21:14 Asia/Karachi] PHP Notice:  Undefined variable: check_in in /home/alupakfoil/public_html/sprout/userfunction/checkin.php on line 37
+[30-Nov-2019 12:17:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 6
+[30-Nov-2019 12:17:12 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 12
+[30-Nov-2019 12:17:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 6
+[30-Nov-2019 12:17:27 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 12
+[30-Nov-2019 12:18:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 6
+[30-Nov-2019 12:18:27 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 12
+[30-Nov-2019 12:18:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 6
+[30-Nov-2019 12:18:33 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 12
+[30-Nov-2019 12:18:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 6
+[30-Nov-2019 12:18:45 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 12
+[30-Nov-2019 12:22:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 6
+[30-Nov-2019 12:22:20 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 12
+[30-Nov-2019 12:22:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 7
+[30-Nov-2019 12:22:23 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 13
+[30-Nov-2019 12:22:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 6
+[30-Nov-2019 12:22:28 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 12
+[30-Nov-2019 12:22:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkout.php on line 6
+[30-Nov-2019 12:22:32 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkout.php on line 12
+[30-Nov-2019 12:24:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 6
+[30-Nov-2019 12:24:15 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 12
+[30-Nov-2019 12:24:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 7
+[30-Nov-2019 12:24:30 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 13
+[30-Nov-2019 12:24:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 6
+[30-Nov-2019 12:24:33 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 12
+[30-Nov-2019 12:24:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkout.php on line 6
+[30-Nov-2019 12:24:36 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkout.php on line 12
+[30-Nov-2019 12:27:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 7
+[30-Nov-2019 12:27:39 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 13
+[30-Nov-2019 12:27:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 6
+[30-Nov-2019 12:27:42 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 12
+[30-Nov-2019 12:30:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 7
+[30-Nov-2019 12:30:11 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 13
+[30-Nov-2019 12:30:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 6
+[30-Nov-2019 12:30:19 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakout.php on line 12
+[30-Nov-2019 12:32:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 7
+[30-Nov-2019 12:32:19 UTC] PHP Notice:  Undefined variable: row in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/breakin.php on line 13
+[30-Nov-2019 17:41:15 Asia/Karachi] PHP Notice:  Undefined variable: check_in in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 39
+[30-Nov-2019 17:42:28 Asia/Karachi] PHP Notice:  Undefined variable: check_in in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 39
+[02-Dec-2019 15:55:50 Asia/Karachi] PHP Notice:  Undefined variable: check_in in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 39
+[02-Dec-2019 16:04:30 Asia/Karachi] PHP Notice:  Undefined variable: check_in in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 39
+[03-Dec-2019 15:15:04 Asia/Karachi] PHP Notice:  Undefined variable: check_in in /home/alupakfoil/public_html/4slash.com/sprout/userfunction/checkin.php on line 39

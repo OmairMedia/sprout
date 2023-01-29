@@ -1,0 +1,58 @@
+.add-on{
+    display: inline-block;
+    width: 28px;
+    min-width: 16px;
+    height: 28px;
+    padding: 3px 5px;
+    font-weight: normal;
+    line-height: 18px;
+    text-align: center;
+    text-shadow: 0 1px 0 #ffffff;
+    vertical-align: middle;
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.attEdit, .attDelete{
+    margin: 0 5px;
+}
+
+.cus_hr{
+    border-width: 3px;
+    margin: 20px 10px;
+}
+
+.resize_hor_none{
+    resize: vertical;
+}
+
+.tb_width{
+    width: 12.5%;
+}
+
+.cus_table td, .cus_table th{
+    font-size: 12px;
+    padding: 0 !important;
+}
+
+.mg_0{
+    margin:0;
+}
+
+.cs-col-3{
+    width: 16.666%;
+}
+
+.mg_r_5{
+    margin-right: 5px;
+}
+
+.edit_btn{
+    display: none;
+}
+
+.chk_out:hover .edit_btn{
+    display: block;
+}
